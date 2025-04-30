@@ -1,5 +1,5 @@
 /*******************************************************************************
- Puzzle Banana v1.0  by Mr.Blinky April 2025
+ Puzzle Banana v1.1  by Mr.Blinky April 2025
 ********************************************************************************
 
 A game entry I wrote for the Arduboy Banana Jam April 2025.
